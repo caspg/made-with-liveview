@@ -25,3 +25,7 @@ Nice to haves:
   * SaaS to check large sites for accessibility and HTML issues.
   * LiveView is used to generate reports in real time, also in searches and filters.
   * Requires sign up but there's a free trial.
+
+* [Notesclub](https://notes.club)
+  * Discover Livebook notebooks
+  * [Open source](https://github.com/notesclub/notesclub) 
