@@ -16,3 +16,7 @@ Nice to haves:
 
 * [www.travelmassive.com](https://www.travelmassive.com/)
   * A community website for tourism professionals, travel media, influencers and startups.
+
+* [LiveBeats](https://livebeats.fly.dev/)
+  * Play music together with Phoenix LiveView!
+  * [Open source](https://github.com/fly-apps/live_beats)
