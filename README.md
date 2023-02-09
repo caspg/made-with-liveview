@@ -14,7 +14,7 @@ Nice to haves:
   * Web applications for exploring parks in the USA.
   * Real time search and navigation (when selecting state or given park) are fully powered by live view.
 
-* [www.travelmassive.com](https://www.travelmassive.com/)
+* [travelmassive.com](https://www.travelmassive.com/)
   * A community website for tourism professionals, travel media, influencers and startups.
 
 * [LiveBeats](https://livebeats.fly.dev/)
@@ -28,4 +28,8 @@ Nice to haves:
 
 * [Notesclub](https://notes.club)
   * Discover Livebook notebooks
-  * [Open source](https://github.com/notesclub/notesclub) 
+  * [Open source](https://github.com/notesclub/notesclub)
+
+* [LiveBook](https://github.com/livebook-dev/livebook)
+  * Automate code & data workflows with interactive Elixir notebooks
+  * [Open Source](https://github.com/livebook-dev/livebook)
