@@ -20,3 +20,8 @@ Nice to haves:
 * [LiveBeats](https://livebeats.fly.dev/)
   * Play music together with Phoenix LiveView!
   * [Open source](https://github.com/fly-apps/live_beats)
+
+* [Rocket Validator](https://rocketvalidator.com)
+  * SaaS to check large sites for accessibility and HTML issues.
+  * LiveView is used to generate reports in real time, also in searches and filters.
+  * Requires sign up but there's a free trial.
