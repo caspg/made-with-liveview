@@ -37,3 +37,8 @@ Nice to haves:
 * [Rauversion](https://rauversion.com)
   * Self hosted music communities
   * [Open Source](https://github.com/rauversion/ravuersion-phx)
+
+* [EasyPodcasts](https://easypodcasts.live)
+  * Reduces the size of audio files from podcasts using the Opus codec
+  * LiveView is used for real time search and navigation, also for the audio player inspired by [Live Beats](https://github.com/fly-apps/live_beats)
+  * [Open Source](https://github.com/easypodcasts/easy_podcasts)
