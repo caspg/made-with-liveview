@@ -33,3 +33,7 @@ Nice to haves:
 * [LiveBook](https://github.com/livebook-dev/livebook)
   * Automate code & data workflows with interactive Elixir notebooks
   * [Open Source](https://github.com/livebook-dev/livebook)
+
+* [Rauversion](https://rauversion.com)
+  * Self hosted music communities
+  * [Open Source](https://github.com/rauversion/ravuersion-phx)
