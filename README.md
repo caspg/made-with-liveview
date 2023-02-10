@@ -42,3 +42,8 @@ Nice to haves:
   * Reduces the size of audio files from podcasts using the Opus codec
   * LiveView is used for real time search and navigation, also for the audio player inspired by [Live Beats](https://github.com/fly-apps/live_beats)
   * [Open Source](https://github.com/easypodcasts/easy_podcasts)
+
+* [Atomic Progress](https://www.atomicprogress.com)
+  * Habit Management, Tracking and Visual Progress tool inspired by Atomic Habits that help you achieve your goals faster
+  * Helps you to put the book into practice and build good habits, break bad ones and get 1% better every day
+  * Uses LiveView for everything UI related, including management, tracking and progress tools
