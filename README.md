@@ -47,3 +47,9 @@ Nice to haves:
   * Habit Management, Tracking and Visual Progress tool inspired by Atomic Habits that help you achieve your goals faster
   * Helps you to put the book into practice and build good habits, break bad ones and get 1% better every day
   * Uses LiveView for everything UI related, including management, tracking and progress tools
+
+* [Overbooked](https://github.com/puemos/overbooked)
+  * Overbooked is a self-hosted flexible workplace platform for indie co-working owners.
+  * LiveView is used for all front end experiences
+  * [Docs](https://overbookedapp.gitbook.io/docs/)
+  * [Open Source](https://github.com/puemos/overbooked)
