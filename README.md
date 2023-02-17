@@ -58,3 +58,7 @@ Nice to haves:
   * Ash Framework is a declarative, resource-oriented application development framework for Elixir.
   * Ash doc site is built with LiveView, there is also a search box (cmd +k) doing full text search over docs.
   * [Open Source](https://github.com/ash-project/ash_hq)
+
+* [cars.com](https://www.cars.com/)
+  * Digital marketplace and solutions provider for the automotive industry that connects car shoppers with sellers.
+  * Multiple forms and search is powered by LiveView.
