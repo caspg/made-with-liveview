@@ -53,3 +53,8 @@ Nice to haves:
   * LiveView is used for all front end experiences
   * [Docs](https://overbookedapp.gitbook.io/docs/)
   * [Open Source](https://github.com/puemos/overbooked)
+
+* [Ash Framework](https://ash-hq.org/)
+  * Ash Framework is a declarative, resource-oriented application development framework for Elixir.
+  * Ash doc site is built with LiveView, there is also a search box (cmd +k) doing full text search over docs.
+  * [Open Source](https://github.com/ash-project/ash_hq)
