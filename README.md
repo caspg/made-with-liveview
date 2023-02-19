@@ -10,6 +10,17 @@ Nice to haves:
 
 ## :fire: Showcase :fire:
 
+* [madepublic](https://madepublic.io)
+  * Social platform to help indie creators build their projects in public
+  * Filter tech stacks, upload images, feature projects, comment system, notifications and more
+  * Entirely built in PETAL stack including LiveView, Tailwind and Alpine
+
+* [6words](https://6words.xyz)
+  * Wordle inspired web game built in LiveView with leaderboard and timings
+
+* [SweetTalk](https://sweettalk.ai)
+  * AI generated pick up lines based on user interests built entirely in LiveView
+
 * [Travelermap.net](https://travelermap.net/parks/usa)
   * Web applications for exploring parks in the USA.
   * Real time search and navigation (when selecting state or given park) are fully powered by live view.
