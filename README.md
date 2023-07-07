@@ -73,3 +73,7 @@ Nice to haves:
 * [cars.com](https://www.cars.com/)
   * Digital marketplace and solutions provider for the automotive industry that connects car shoppers with sellers.
   * Multiple forms and search is powered by LiveView.
+ 
+* [Client First CRM](https://www.clientfirstcrm.com/)
+  * CRM for small businesses, financial advisors, real estate agents and small teams
+  * LiveView is used in all UI and frontend pieces
