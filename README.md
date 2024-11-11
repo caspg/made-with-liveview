@@ -10,7 +10,7 @@ Nice to haves:
 
 ## :fire: Showcase :fire:
 
-* [VeloPlanner.com/](https://veloplanner.com/)
+* [VeloPlanner](https://veloplanner.com/)
   * Platform for cyclists. Forms are powered by LiveView.
 
 * [madepublic](https://madepublic.io)
