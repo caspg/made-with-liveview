@@ -10,6 +10,9 @@ Nice to haves:
 
 ## :fire: Showcase :fire:
 
+* [VeloPlanner.com/](https://veloplanner.com/)
+  * Platform for cyclists. Forms are powered by LiveView.
+
 * [madepublic](https://madepublic.io)
   * Social platform to help indie creators build their projects in public
   * Filter tech stacks, upload images, feature projects, comment system, notifications and more
